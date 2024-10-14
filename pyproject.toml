@@ -6,7 +6,7 @@ authors = ["Adrien Di Pasquale <adrien.di_pasquale@beta.gouv.fr>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.9"
 requests = "^2"
 Scrapy = "^2"
 scrapinghub = "^2"
